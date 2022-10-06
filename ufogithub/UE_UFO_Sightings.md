@@ -1840,7 +1840,7 @@ labs(title = "EU sightings per Region"
 
 ![](UE_UFO_Sightings_files/figure-gfm/unnamed-chunk-16-1.png)<!-- --> 
 
-#Conclusion
+# Conclusion
 Visualisations are very useful to draw some conclusions: Most
 of the sightings were in northern Europe. Actually, as we can clearly
 see from the graph “EU sightings per country” this conclusion is
